@@ -26,9 +26,6 @@
 			<input type="submit" />
 		</form>
 
-		
-
-
 		<?php
 		$carriers = array('@textin.in', '@aircel.co.in', '@airtelap.com', '@airtelkk.com', '@msg.acsalaska.com', '@message.Alltel.com','@text.wireless.alltel.com', '@mms.alltel.net', 
 		'@text.aql.com', '@txt.att.net', '@mms.att.net', '@mmode.com', '@cingularme.com', '@mobile.mycingular.com', '@page.att.net', '@sms.smartmessagingsuite.com', '@txt.bell.ca', 
